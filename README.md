@@ -77,3 +77,13 @@ Through great teamwork and strong backend-frontend collaboration, we achieved an
 
 ## Acknowledgments
 Special thanks to Mrs. Ankita for her valuable guidance, encouragement, and mentorship throughout the development of this project.
+
+
+
+
+
+#Improvements:
+ - Use of js , react , css, talwind for better frontend
+ - improve models with new api keys (use-> gemini for data related quries)
+ - use database like sql for tabular form of resume.
+ 
