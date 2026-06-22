@@ -71,6 +71,7 @@ Integrating frontend with backend for real-time suggestions
 ## 🔗 LinkedIn Profiles
 
 Harsh Kaushik : https://www.linkedin.com/in/harshkaushik1/
+
 Abhigyan  : linkedin.com/in/abhigyan-dubey-5468bb320
 
 ## 📢 Conclusion
