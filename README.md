@@ -75,8 +75,6 @@ Harsh Kaushik : https://www.linkedin.com/in/harshkaushik1/
 This project demonstrates the seamless integration of AI, Machine Learning, and Web Development to build an intelligent chatbot that suggests career options.
 Through great teamwork and strong backend-frontend collaboration, we achieved an efficient and user-friendly solution.
 
-## Acknowledgments
-Special thanks to Mrs. Ankita for her valuable guidance, encouragement, and mentorship throughout the development of this project.
 
 
 
