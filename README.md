@@ -1,8 +1,5 @@
 # Personalized Guidance Chatbot 
 
-## ✨ Authors
-### Harsh Kaushik —  Frontend Development and Backend Developer
-
 ## 📋 Project Overview
 This project is a Personalized Guidance Chatbot that helps users discover suitable career options based on their interests and skills.
 The system uses embeddings and a vector database to smartly match user inputs with relevant career suggestions.
@@ -67,9 +64,14 @@ Integrating frontend with backend for real-time suggestions
 
    Visit http://localhost:8501 to start chatting!
 
+## ✨ Authors
+## Abhigyan - Frontend Development 
+### Harsh Kaushik —  Backend Develope
+
 ## 🔗 LinkedIn Profiles
 
 Harsh Kaushik : https://www.linkedin.com/in/harshkaushik1/
+Abhigyan  : linkedin.com/in/abhigyan-dubey-5468bb320
 
 ## 📢 Conclusion
 This project demonstrates the seamless integration of AI, Machine Learning, and Web Development to build an intelligent chatbot that suggests career options.
