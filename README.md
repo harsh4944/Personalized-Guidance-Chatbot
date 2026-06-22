@@ -66,7 +66,7 @@ Integrating frontend with backend for real-time suggestions
 
 ## ✨ Authors
 ## Abhigyan - Frontend Development 
-### Harsh Kaushik —  Backend Develope
+## Harsh Kaushik —  Backend Developer
 
 ## 🔗 LinkedIn Profiles
 
