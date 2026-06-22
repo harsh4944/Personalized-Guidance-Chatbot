@@ -72,7 +72,7 @@ Integrating frontend with backend for real-time suggestions
 
 Harsh Kaushik : https://www.linkedin.com/in/harshkaushik1/
 
-Abhigyan  : linkedin.com/in/abhigyan-dubey-5468bb320
+Abhigyan  : https://www.linkedin.com/in/abhigyan-dubey-5468bb320/
 
 ## 📢 Conclusion
 This project demonstrates the seamless integration of AI, Machine Learning, and Web Development to build an intelligent chatbot that suggests career options.
