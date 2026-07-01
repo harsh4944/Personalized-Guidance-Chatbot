@@ -36,7 +36,7 @@ Smooth user input experience
 Career suggestions displayed in a clean and attractive manner
 
 ## 🛠 Backend Development
-Backend development is handled by Krishna Parjapati and Kartik Sharma, which includes:
+Backend development is handled  which includes:
 
 Setting up embeddings
 
